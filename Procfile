@@ -1,1 +1,1 @@
-web: gunicorn mmaworld.wsgi:application
+web: gunicorn ecommerce.wsgi:application
